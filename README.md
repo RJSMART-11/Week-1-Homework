@@ -88,3 +88,7 @@ Blockchain - Crypto Currency
 * Why are these technologies appropriate for your solution?
 
 (unanswered)
+
+
+## References
+[References repositority](/References/references.md)
