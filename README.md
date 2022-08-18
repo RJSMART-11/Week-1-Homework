@@ -34,11 +34,11 @@ The vision of Lend was to completely re-architect the way finance brokers, borro
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-(unanswered)
+Both business seeking finance and also lenders seeking customers. Also they sell their ledning platform to finance brokers' to use.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-(unanswered)
+Big Data, algroithims, automation, AI, Machine learining.
 
 ## Landscape:
 
