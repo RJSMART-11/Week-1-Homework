@@ -24,6 +24,8 @@ Founded in 2016 by a team of finance and lending experts, data scientists, machi
 
 Shaun McGowan, had secured the domain name for an amount of $35,000. 
 Also Shaun McGowan, Bill Baker both sold their pervious company carloans.com.au with genrated $500 million annually. 
+
+
 ---
 ## Business Activities:
 
@@ -41,6 +43,8 @@ Both business seeking finance and also lenders seeking customers. Also they sell
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 Big Data, algroithims, automation, AI, Machine learining.
+
+
 ---
 ## Landscape:
 
@@ -54,6 +58,7 @@ Intergration of Artifalice intelligence and machine learning has been able to st
 * What are the other major companies in this domain?
 
 There is a multitude of fintech compaines in this domain, a noteable one would be the likes of 'Afterpay' which took over the world in the last 2yrs providing incremental payment options to consumers, this was largley made marketable due to Covid-19 where because of the change of the way we worked and earn income had become obstructed and afterpay's solution became increadibly useful to the everyday indiviual.
+
 
 ---
 ## Results
@@ -78,6 +83,7 @@ Fundera ltd is another company that offers very similar solutions to that of Len
 Another company to mention is SoFi ltd, this company differs by having a larger more diverse slection of products and services. From offer tradional business and personal loans it also can of options suchs as Life insurance, mortage loans, refinaincing, student loans and wealth management. This call this selection 'social finance'. They also take in KPIs such as work experince and education background to give them a re larger and more accurate scope of their customers needs and capibilites.
 
 Lend.com may have the largest loan marketplace in austraila and hsare similar technologies to the companies above, but because of it geographical market cap it will not be able to reach the same volume or growth potential as Fundera and SoFi if it does not breach it's current location paramitters. Although Lend could learn a lot and increase it business potential in Australia if it decided to increases in product and service selections like SoFi has done.
+
 
 ---
 ## Recommendations
