@@ -79,9 +79,9 @@ although this is broad, these metrics are compared to countless amounts of other
 
 Fundera ltd is another company that offers very similar solutions to that of Lend.com, only major difference is that Fundera Ltd operates in the U.S. allowing for a large market, therefore giving it a greater growth potential.
 
-Another company to mention is SoFi ltd, this company differs by having a larger more diverse selection of products and services. From offer traditional business and personal loans it also can of options such as Life insurance, mortgage loans, refinancing, student loans and wealth management. This call this selection 'social finance'. They also take in KPIs such as work experience and education background to give them a re larger and more accurate scope of their customers needs and capabilities.
+Another company to mention is SoFi ltd, this company differs by having a larger more diverse selection of products and services. From offering traditional business to personal loans it also can of provide options such as Life insurance, mortgage loans, refinancing, student loans and wealth management. This call this selection 'social finance'. They also take in KPIs such as work experience and education background to give them a re larger and more accurate scope of their customers needs and capabilities.
 
-Lend.com may have the largest loan marketplace in Australia and share similar technologies to the companies above, but because of it geographical market cap it will not be able to reach the same volume or growth potential as Fundera and SoFi if it does not breach it's current location parameters. Although Lend could learn a lot and increase it business potential in Australia if it decided to increases in product and service selections like SoFi has done.
+Lend.com may have the largest loan marketplace in Australia and share similar technologies to the companies above, but because of it geographical market cap it will not be able to reach the same volume or growth potential as Fundera and SoFi if it does not breach it's current location parameters. Lend could learn a lot and increase it business potential in Australia if it decided to increases in product and service selections like SoFi has done.
 
 
 ---
@@ -93,7 +93,7 @@ Cryptocurrency lending
 
 * Why do you think that offering this product or service would benefit the company?
 
-I think matching cunsomers with for cryptocurrency lenders would firstly incorporate a product that is already increasing it's demand and use in the worlds market which would allow the business to increase it's domains market share, but this product could also allow the company to breach it geographical limits of Australia and therefore increase its businesses potential growth. Businesses are increasing finding ways to implement crypto currencies into their businesses strategies and some say the cryptocurrencies will be the next biggest financial product to be on the market.
+I think matching consumers with for cryptocurrency lenders would firstly incorporate a product that is already increasing it's demand and use in the worlds market which would allow the business to increase it's domains market share, but this product could also allow the company to breach it geographical limits of Australia and therefore increase its businesses potential growth. Businesses are increasing finding ways to implement crypto currencies into their businesses strategies and some say the cryptocurrencies will be the next biggest financial product to be on the market.
 
 
 * What technologies would this additional product or service utilize?
@@ -104,7 +104,7 @@ Blockchain - Crypto Currency
 
 * Why are these technologies appropriate for your solution?
 
-Cryptocurrency is life or death with Blockchain technologies therefore without the use of blockchain there is no cryptocurrency or at least a way to trade/share it unless you like paying cash in hand for a USB drive that contains crypto currency, but it is highly unlikely that this would be the majority proffered method around the world. Blockchain will support the solution by allowing for a global market and to facilitate the cryptocurrency transactions.
+Cryptocurrency is life or death with Blockchain technologies therefore without the use of blockchain there is no cryptocurrency or at least a way to trade/share it, unless you like paying cash in hand for a USB drive that contains cryptocurrency, but it is highly unlikely that this would be the popular case around the world. Blockchain will support the solution by allowing for a global market and to facilitate cryptocurrency transactions.
 
 ---
 ## References
