@@ -17,7 +17,7 @@ Shaun McGowan, Bill Baker.
 
 * How did the idea for the company (or project) come about?
 
-Founded in 2016 by a team of finance and lending experts, data scientists, machine learning engineers and technologists dedicated to creating a seamless, efficient and fast experience for Australian business finance brokers and their clients. 
+The founders saw and opportunity in the market and used the experience they had with carloans.com.au  and with the help of some technical experts brought this project to life.
 
 * How is the company funded? How much funding have they received?
 
@@ -36,7 +36,7 @@ Lend is trying to solve or reinvent the ecosystem of finance brokers, borrowers 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-Both business seeking finance and also lenders seeking customers. Also they sell their lending platform to finance brokers' to use.
+Both businesses seeking finance and also lenders seeking customers. Also they sell their lending platform to finance brokers' to use. In 3 to august 2021 10 billion dollars in lending to small businesses in Australia. This company has the has partnerships with the most amount of lenders in Australia making it the biggest business loan marketplace in Australia. Thus giving them an competitive advantage over companies doing the same thing.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
