@@ -4,3 +4,9 @@
 3. [link 3](https://smallbusinessloansaustralia.com/lend-com-au-review-and-analysis/#:~:text=Going%20back%20to%20its%20origination,for%20an%20amount%20of%20%2435%2C000).
 
 4. [Link](https://omny.fm/shows/talking-business/bill-baker-co-founder-ceo-of-lend-com-au)
+4. [Link]
+(https://www.weforum.org/agenda/2021/10/top-emerging-technologies-10-years/)
+6. [Link] (https://opsdog.com/resources/top-5-lending-performance-metrics-measure-success/)
+7. [Link] (https://due.com/blog/disruptive-fintech-companies/)
+8. [link] (https://www.fundera.com)
+
